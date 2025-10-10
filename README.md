@@ -1,8 +1,4 @@
-# Snarky Snappy codebase
-<a href="https://soylent.com"><img src="https://raw.githubusercontent.com/SnarkySnappySS13/SnarkySnappy/refs/heads/master/.github/images/fueledby.png" height="35" width="148.5"></a>
-<a href="https://jakparty.soy"><img src="https://raw.githubusercontent.com/SnarkySnappySS13/SnarkySnappy/refs/heads/master/.github/images/bviltwith.png" height="35" width="211.5"></a>
-<a href="https://soybooru.com"><img src="https://raw.githubusercontent.com/SnarkySnappySS13/SnarkySnappy/refs/heads/master/.github/images/contains.png" height="35" width="136"></a>
-[![forinfinityandbyond](https://user-images.githubusercontent.com/5211576/29499758-4efff304-85e6-11e7-8267-62919c3688a9.gif)](https://www.reddit.com/r/SS13/comments/5oplxp/what_is_the_main_problem_with_byond_as_an_engine/dclbu1a)
+# monkestation codebase
 
 | Website                 | Link                                           |
 |-------------------------|------------------------------------------------|
@@ -11,7 +7,7 @@
 | Wiki                    | [https://wiki.soyjak.st/](https://wiki.soyjak.st/) |
 | Codedocs                | [https://codedocs.tgstation13.org/](https://codedocs.tgstation13.org/) |
 
-This is the codebase for the soicaca-flavored fork of Space Station 13. This repo is keyed off of the Monkestation codebase, this is a custom fork of that repo intended for use on our server, but feel free to host it if you'd like.
+[![forthebadge](monkestation/badges/fueled-by-potassium.svg)](https://forthebadge.com) [![resentment](https://forthebadge.com/images/badges/built-with-resentment.svg)](https://www.monkeyuser.com/assets/images/2019/131-bug-free.png) [![resentment](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://user-images.githubusercontent.com/8171642/50290880-ffef5500-043a-11e9-8270-a2e5b697c86c.png) [![forinfinityandbyond](https://user-images.githubusercontent.com/5211576/29499758-4efff304-85e6-11e7-8267-62919c3688a9.gif)](https://www.reddit.com/r/SS13/comments/5oplxp/what_is_the_main_problem_with_byond_as_an_engine/dclbu1a)
 
 Space Station 13 is an open-source tile-based A24 slowburn autistic role-playing video game created in 2003 by Exadv1, originally supposed to be an atmospheric simulator. It is now collectively maintained by its "community" and runs on the shitty freeware game engine BYOND, made sometime in 1996. SS13 dwarfs the other shitty Dragon Ball roleplay games on BYOND by thousands of players, which would have likely died in 2014 if it were not for SS13 singlehandedly keeping the entire platform alive. 
 
@@ -23,7 +19,7 @@ Space Station 13 is an open-source tile-based A24 slowburn autistic role-playing
 
 [Maps and Away Missions](.github/guides/MAPS_AND_AWAY_MISSIONS.md)
 
-## nobody gives a single fuck about this part but im keeping it for prosperity
+## :exclamation: How to compile :exclamation:
 
 On **2021-01-04** we changed the way to compile the codebase.
 
@@ -41,6 +37,9 @@ On **2021-01-04** we changed the way to compile the codebase.
 
 [/tg/station HACKMD account](https://hackmd.io/@tgstation) - Design documentation here
 
+[Interested in some starting lore?](https://github.com/tgstation/common_core)
+
+[Coding guidelines](https://hackmd.io/@MonkestationPooba/code_guidelines) - How and how not to code for Monkestation
 
 ## LICENSE
 
@@ -63,7 +62,7 @@ See [LICENSE](LICENSE) and [GPLv3.txt](GPLv3.txt) for more details.
 
 The TGS DMAPI is licensed as a subproject under the MIT license.
 
-See the footer of [code/__DEFINES/tgs.dm](./code/__DEFINES/tgs.dm) and [code/modules/tgs/LICENSE](./code/modules/tgs/LICENSE) for the MIT license.
+See the footer of [code/\_\_DEFINES/tgs.dm](./code/__DEFINES/tgs.dm) and [code/modules/tgs/LICENSE](./code/modules/tgs/LICENSE) for the MIT license.
 
 ---
 
