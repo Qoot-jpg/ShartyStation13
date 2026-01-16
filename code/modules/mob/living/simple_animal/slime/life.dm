@@ -1,9 +1,9 @@
 /mob/living/simple_animal/slime/Life(seconds_per_tick = SSMOBS_DT, times_fired)
 	//if(HAS_TRAIT(src, TRAIT_NO_TRANSFORM))
 	//	return
-	//. = ..()
-	//if(!.)
-	//______qdel_list_wrapper	return
+	. = ..()
+	if (!.)
+		return
 
 	// We get some passive bruteloss healing if we're not dead
 	if(stat != DEAD && SPT_PROB(16, seconds_per_tick))
