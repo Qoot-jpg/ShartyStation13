@@ -324,10 +324,10 @@
 	default = "https://soyjak.st/ss/thread/1.html#2259"
 
 /datum/config_entry/string/githuburl
-	default = "https://gitgud.io/snarkysnappyss13/ShartyStation13"
+	default = "https://github.com/Space-Soyentists/ShartyStation13"
 
 /datum/config_entry/string/issueurl
-	default = "https://gitgud.io/snarkysnappyss13/ShartyStation13/-/issues"
+	default = "https://github.com/Space-Soyentists/ShartyStation13/issues"
 
 /datum/config_entry/string/discordbotcommandprefix
 	default = "?"
