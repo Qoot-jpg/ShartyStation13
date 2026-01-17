@@ -81,26 +81,26 @@ const ChangeRow = (props: { kind: string; content: string }) => {
 const Header = (props: { dropdown: any }) => {
   return (
     <Section>
-      <h1>Monkestation</h1>
+      <h1>Sharty Station 13</h1>
       <p>
         <b>Thanks to: </b>
-        /TG/station, Baystation 12, /vg/station, NTstation, CDK Station devs,
+        Monkestation, /tg/station, Baystation 12, /vg/station, NTstation, CDK Station devs,
         FacepunchStation, GoonStation devs, the original Space Station 13
-        developers, Invisty for the title image and the countless others who
-        have contributed to the game, issue tracker or wiki over the years.
+        developers, and the countless others who have contributed to the game,
+        issue trackers or wikis over the years.
       </p>
       <p>
-        {'Current organization members can be found '}
-        <a href="https://github.com/orgs/monkestation/people">here</a>
-        {', recent GitHub contributors can be found '}
-        <a href="https://github.com/monkestation/monkestation2.0/pulse/monthly">
+        {'Source code of this server can be found '}
+        <a href="https://github.com/Space-Soyentists/ShartyStation13">here</a>
+        {', you can open issues/make feature requests '}
+        <a href="https://github.com/Space-Soyentists/ShartyStation13/issues">
           here
         </a>
         .
       </p>
       <p>
-        {'You can also join our discord '}
-        <a href="https://discord.gg/monkestation">here</a>.
+        {'You can also find our imageboard '}
+        <a href="https://soyjak.st/">here</a>.
       </p>
       {props.dropdown}
     </Section>
