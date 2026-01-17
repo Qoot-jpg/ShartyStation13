@@ -2,7 +2,7 @@
 	//if(HAS_TRAIT(src, TRAIT_NO_TRANSFORM))
 	//	return
 	. = ..()
-	if (!.)
+	if (stat == DEAD)
 		return
 
 	// We get some passive bruteloss healing if we're not dead
