@@ -84,10 +84,11 @@ const Header = (props: { dropdown: any }) => {
       <h1>Sharty Station 13</h1>
       <p>
         <b>Thanks to: </b>
-        Monkestation, /tg/station, Baystation 12, /vg/station, NTstation, CDK Station devs,
+        /tg/station, Baystation 12, /vg/station, NTstation, CDK Station devs,
         FacepunchStation, GoonStation devs, the original Space Station 13
         developers, and the countless others who have contributed to the game,
         issue trackers or wikis over the years.
+        <span style="font-size: 1px">MonkeStation too.</span>
       </p>
       <p>
         {'Source code of this server can be found '}
